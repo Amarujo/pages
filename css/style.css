@@ -165,7 +165,8 @@ footer{
         color: #fff;
         font-weight: normal;
     } */
-    .box{
-        display:block;
+    #boxes .box{
+        width: 100%;
+        display: block;
     }
 }
