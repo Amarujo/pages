@@ -149,8 +149,8 @@ footer{
 
 
 
-/* @media(max-width:700px){
-    header nav{
+@media(max-width:700px){
+    /* header nav{
         text-align: center;
         clear: both;
         display: block;
@@ -164,5 +164,8 @@ footer{
     header .current a{
         color: #fff;
         font-weight: normal;
+    } */
+    .box{
+        display:block;
     }
-} */
+}
